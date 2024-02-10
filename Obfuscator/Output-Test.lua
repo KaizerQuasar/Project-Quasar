@@ -1,1 +1,6 @@
+-- Quasar Obfuscator Alpha
+-- Layers: 2
+-- Obfuscation Level: N/A
+-- Discord Bot: Soon 👀
+
 \8|000'3b#}qb7YTGd@W~@Rd)+%G4^:bU!$cUf^S3\7?000^KI?!<+^+~Wl|;7:Q_%;1K3kJwc!M6|^?^uAl\4v000q0O[UMdf[;>/[-@),@Eg<H&0v2fyE6x|^[F\6+0,003f.lp&MEw%K1_Fx6c(j0Q~@T$T\26000BN(+"llv71n+8<=Vcv"Tu6:{913`)\38000$j"OXy$9#"1ywG*v1<j45w%I\3+-k%1%5\3g0100f3T>;p&;%FPV24vOR75{#3K:QG[]g.x,5h\9-000mW!w*$N}W@U11T5QY@ON_[L;:/x=\6*000xGfY+C\7;<k#Y;hjvc!+mRO139l[wLIn"UnM0S\2x{000L-0SpC)5OJcYm+E'&X^Z2}|U<Td\650V003xXO4ZXW$7\1@IR)_%,`GrGk?!f!JxxYI'wF1y6r\8,00064c+jcm}jcl3|/LkJ~^3Byu]pI2jTFWc/vG\4w000!6>Z;0@q$X+[1#-qluF<KNSG#Hr0fgm*DXfD_l$Wl\22000L{R<lG87;$v%x;b8=1x#g%M!cJn=u#IEZm{.!3^R^w\5R000'3b#}q37YTGd@W~@Rc)+%G4^:bU!vcUf^S3\1`000^KI?!<+^+~Wly;7:Q_%;1K31Jwc!M6|^?^yAl\5P000q0O[TMdf[;>/[-@%,@Eg<H&0v20yE6x|^[F\7n0-003f.lp&ME+%K1_Fx6c(j0Q~@T$T\4l000@N(+"llv71np8<=Vcv"Tu6:{913`)\4L0000j"OXy$9#"1wwG*v1<j45w%I\9w-k%1%5\1O0800f3T>;p&;)FPV24vOR75+#3K:QG[]g.{,5h\9V000mW!+*$N}W@U11T<QY@ON_[L;:4x=\1*000xGfYxC\3T<k#Y;hjvh!+mRO139l[xLIn"UnM0S\94u000L-0SpC)9OJcYm+E'&X[Z2}|U<Td\4h0Z003xXO4ZXWj7\5'IR)_%,`GpGk?!f!JxxYI!wF1y6r\3C00074c+jcm}jcl0|/LkJ~^3By~]pI2jTFWc/~G\5r000!6>Z;6@q$X+[1#-qhuF<KNSG#Hrmfgm*DXfD_l0Wl\8&000L{R<lG87;$v%x;b2=1x#g%M!cJw=u#IEZm{.!j^R^y
